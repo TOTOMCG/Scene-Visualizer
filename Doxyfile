@@ -1,0 +1,57 @@
+# Базовые настройки проекта
+PROJECT_NAME           = "Scene Visualizer"
+PROJECT_NUMBER         = 1.0
+PROJECT_BRIEF          = "2D физический симулятор с использованием ECS и Avalonia UI"
+PROJECT_LOGO           = 
+
+# Язык исходного кода
+OPTIMIZE_OUTPUT_FOR_C  = NO
+OPTIMIZE_OUTPUT_JAVA   = NO
+OPTIMIZE_FOR_FORTRAN   = NO
+OPTIMIZE_OUTPUT_VHDL   = NO
+
+# Извлечение информации
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+EXTRACT_LOCAL_METHODS  = YES
+
+# Исходные файлы
+INPUT                  = .
+FILE_PATTERNS          = *.cs *.xaml
+RECURSIVE              = YES
+
+# Исключения
+EXCLUDE_PATTERNS       = */bin/* */obj/* */packages/*
+
+# Вывод
+OUTPUT_DIRECTORY       = docs
+CREATE_SUBDIRS         = NO
+
+# HTML вывод
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+HTML_FILE_EXTENSION    = .html
+GENERATE_TREEVIEW      = YES
+
+# Латекс
+GENERATE_LATEX         = NO
+
+# Графики
+DOT_PATH               = 
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+
+# Поиск
+SEARCHENGINE           = YES
+
+# Алиасы
+ALIASES                = "leoecs=\\brief LeoECS Entity Component System"
+ALIASES               += "avalonia=\\brief Avalonia UI Framework"
+ALIASES               += "component=\\brief ECS Component"
+ALIASES               += "system=\\brief ECS System"
+
+# Включение документации для всех членов
+EXTRACT_ALL            = YES

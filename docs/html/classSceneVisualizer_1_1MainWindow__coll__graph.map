@@ -1,0 +1,9 @@
+<map id="SceneVisualizer.MainWindow" name="SceneVisualizer.MainWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,93,262,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,80,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,37,142,91,139,95,67,41"/>
+<area shape="rect" id="Node000003" href="$classScene_1_1Scene.html" title="Контейнер для объектов сцены" alt="" coords="104,5,208,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,45,159,93,153,93,153,45"/>
+<area shape="rect" id="Node000004" href="$classEcsSceneManager.html" title="Менеджер ECS сцены, координирующий системы и мир ECS." alt="" coords="233,5,373,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,40,177,95,175,91,270,35"/>
+</map>

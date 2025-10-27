@@ -1,0 +1,5 @@
+<map id="SceneVisualizer.CustomCanvas.UpdateInfoPanel" name="SceneVisualizer.CustomCanvas.UpdateInfoPanel">
+<area shape="rect" id="Node000001" title="Обновляет панель с информацией" alt="" coords="5,5,236,45"/>
+<area shape="rect" id="Node000002" href="$classScene_1_1Scene.html#ac9f52f57bce5f34fa2144d8533c6b8d4" title="Возвращает все объекты сцены" alt="" coords="284,13,481,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,23,270,23,270,28,236,28"/>
+</map>

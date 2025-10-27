@@ -1,0 +1,7 @@
+<map id="SceneVisualizer.MainWindow.StartGameLoop" name="SceneVisualizer.MainWindow.StartGameLoop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,220,45"/>
+<area shape="rect" id="Node000002" href="$classSceneVisualizer_1_1MainWindow.html#a01adea9f06c4dbf5f32920e2c4967b06" title=" " alt="" coords="268,5,483,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,23,254,23,254,28,220,28"/>
+<area shape="rect" id="Node000003" href="$classEcsSceneManager.html#a530a614d14734c5e54e6178be49576d7" title="Выполняет один шаг симуляции ECS." alt="" coords="531,13,721,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,23,517,23,517,28,483,28"/>
+</map>

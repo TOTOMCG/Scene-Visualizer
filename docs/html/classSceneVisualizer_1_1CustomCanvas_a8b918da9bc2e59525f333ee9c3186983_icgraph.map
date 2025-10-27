@@ -1,0 +1,14 @@
+<map id="SceneVisualizer.CustomCanvas.ScalePoint" name="SceneVisualizer.CustomCanvas.ScalePoint">
+<area shape="rect" id="Node000001" title="Переводит точку в точку на экране" alt="" coords="563,69,793,109"/>
+<area shape="rect" id="Node000002" href="$classSceneVisualizer_1_1CustomCanvas.html#a5e3e6b4e565d56ac2bbe43df1716a373" title="Визуализирует шары" alt="" coords="284,5,515,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="576,69,486,48,488,43,577,64"/>
+<area shape="rect" id="Node000004" href="$classSceneVisualizer_1_1CustomCanvas.html#ae1bc9154c8f8cde0d4dc302302f260ce" title="Визуализирует стены" alt="" coords="284,69,515,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="549,92,515,92,515,87,549,87"/>
+<area shape="rect" id="Node000005" href="$classSceneVisualizer_1_1CustomCanvas.html#ad89893dd5ba5ef4c510f35947883223c" title="Обновляет визуализацию шаров" alt="" coords="284,133,515,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="577,115,488,136,486,131,576,110"/>
+<area shape="rect" id="Node000003" href="$classSceneVisualizer_1_1CustomCanvas.html#a555901d22bb35b8288ddde82bfd90cce" title="Инициализирует визуализацию на основе текущей сцены" alt="" coords="5,37,236,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,43,236,47,236,41,270,37"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="270,77,236,73,236,68,271,72"/>
+<area shape="rect" id="Node000006" href="$classSceneVisualizer_1_1CustomCanvas.html#a16c1b51b7675ab63bc225c82f2e243bc" title="Обновляет визуализацию" alt="" coords="5,133,236,173"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="270,156,236,156,236,151,270,151"/>
+</map>

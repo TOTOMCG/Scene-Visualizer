@@ -1,0 +1,7 @@
+<map id="BallInitSystem" name="BallInitSystem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,93,191,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,124,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,40,125,91,121,94,80,43"/>
+<area shape="rect" id="Node000003" href="$classScene_1_1Scene.html" title="Контейнер для объектов сцены" alt="" coords="149,5,253,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,43,144,94,140,91,181,40"/>
+</map>

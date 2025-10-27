@@ -1,0 +1,5 @@
+<map id="Scene.WallComponent" name="Scene.WallComponent">
+<area shape="rect" id="Node000001" title="Компонент стены, содержащий начальную и конечную точки" alt="" coords="5,108,173,133"/>
+<area shape="rect" id="Node000002" href="$classScene_1_1Point2D.html" title="Представляет 2D точку с координатами X и Y." alt="" coords="31,5,147,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,45,92,108,87,108,87,45"/>
+</map>

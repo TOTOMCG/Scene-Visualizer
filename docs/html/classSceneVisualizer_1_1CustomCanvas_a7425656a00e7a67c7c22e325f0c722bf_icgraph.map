@@ -1,0 +1,5 @@
+<map id="SceneVisualizer.CustomCanvas.CreateInfoPanel" name="SceneVisualizer.CustomCanvas.CreateInfoPanel">
+<area shape="rect" id="Node000001" title="Создаёт панель с информацией" alt="" coords="284,5,515,45"/>
+<area shape="rect" id="Node000002" href="$classSceneVisualizer_1_1CustomCanvas.html#a555901d22bb35b8288ddde82bfd90cce" title="Инициализирует визуализацию на основе текущей сцены" alt="" coords="5,5,236,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,28,236,28,236,23,270,23"/>
+</map>

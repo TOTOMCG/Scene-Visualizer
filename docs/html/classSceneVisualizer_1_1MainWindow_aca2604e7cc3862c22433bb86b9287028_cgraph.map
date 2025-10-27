@@ -1,0 +1,19 @@
+<map id="SceneVisualizer.MainWindow.OnWindowOpened" name="SceneVisualizer.MainWindow.OnWindowOpened">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,220,113"/>
+<area shape="rect" id="Node000002" href="$classSceneVisualizer_1_1MainWindow.html#a5e0c7e2e5ecfc09c14491fbf818cb6f2" title=" " alt="" coords="268,5,483,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,71,284,46,285,51,191,76"/>
+<area shape="rect" id="Node000004" href="$classSceneVisualizer_1_1MainWindow.html#aafea2a60f71b32db2b4dda8644dd4771" title=" " alt="" coords="268,73,483,113"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,91,254,91,254,96,220,96"/>
+<area shape="rect" id="Node000007" href="$classSceneVisualizer_1_1MainWindow.html#a7d8fcdd9311a810b9d306062911e524e" title=" " alt="" coords="268,144,483,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="189,111,288,138,286,143,187,116"/>
+<area shape="rect" id="Node000003" href="$classEcsSceneManager.html#afa8f8d9048a0364093bfb7fa24a80ce2" title="Инициализирует ECS системы" alt="" coords="539,9,737,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,21,525,20,525,26,483,26"/>
+<area shape="rect" id="Node000005" href="$classScene_1_1Scene.html#a8767bf13486096b72a80996131ecb7a8" title="Добавляет объект в сцену" alt="" coords="551,58,725,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="483,81,537,77,537,82,483,87"/>
+<area shape="rect" id="Node000006" href="$classScene_1_1Scene.html#ac9f52f57bce5f34fa2144d8533c6b8d4" title="Возвращает все объекты сцены" alt="" coords="539,107,737,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="483,102,526,106,525,111,483,107"/>
+<area shape="rect" id="Node000008" href="$classSceneVisualizer_1_1MainWindow.html#a01adea9f06c4dbf5f32920e2c4967b06" title=" " alt="" coords="531,157,745,197"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="483,167,517,169,517,174,483,172"/>
+<area shape="rect" id="Node000009" href="$classEcsSceneManager.html#a530a614d14734c5e54e6178be49576d7" title="Выполняет один шаг симуляции ECS." alt="" coords="793,165,984,190"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="746,175,779,175,779,180,746,180"/>
+</map>

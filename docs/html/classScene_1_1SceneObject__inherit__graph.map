@@ -1,0 +1,7 @@
+<map id="Scene.SceneObject" name="Scene.SceneObject">
+<area shape="rect" id="Node000001" title="Базовый класс для всех объектов сцены" alt="" coords="35,5,181,31"/>
+<area shape="rect" id="Node000002" href="$classScene_1_1Ball.html" title="Представляет шар с центром, радиусом и скоростью" alt="" coords="5,79,96,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,43,62,80,58,77,88,40"/>
+<area shape="rect" id="Node000003" href="$classScene_1_1Wall.html" title="Представляет стену с начальной и конечной точками" alt="" coords="120,79,213,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,40,159,77,155,80,124,43"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SceneVisualizer.CustomCanvas.CreateBallVisual" name="SceneVisualizer.CustomCanvas.CreateBallVisual">
+<area shape="rect" id="Node000001" title="Визуализирует шары" alt="" coords="5,37,236,77"/>
+<area shape="rect" id="Node000002" href="$classSceneVisualizer_1_1CustomCanvas.html#af4c2b701a780d2e08f3e1a0b5b3e262f" title="Переводит длину в длину на экране" alt="" coords="284,5,515,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,41,270,37,271,43,237,47"/>
+<area shape="rect" id="Node000003" href="$classSceneVisualizer_1_1CustomCanvas.html#a8b918da9bc2e59525f333ee9c3186983" title="Переводит точку в точку на экране" alt="" coords="284,69,515,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,68,271,72,270,77,236,73"/>
+</map>

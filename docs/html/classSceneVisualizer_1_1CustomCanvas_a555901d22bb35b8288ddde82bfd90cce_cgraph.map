@@ -1,0 +1,18 @@
+<map id="SceneVisualizer.CustomCanvas.InitializeVisualization" name="SceneVisualizer.CustomCanvas.InitializeVisualization">
+<area shape="rect" id="Node000001" title="Инициализирует визуализацию на основе текущей сцены" alt="" coords="5,69,236,109"/>
+<area shape="rect" id="Node000002" href="$classSceneVisualizer_1_1CustomCanvas.html#a5e3e6b4e565d56ac2bbe43df1716a373" title="Визуализирует шары" alt="" coords="284,5,515,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,67,298,46,299,51,209,72"/>
+<area shape="rect" id="Node000005" href="$classSceneVisualizer_1_1CustomCanvas.html#a7425656a00e7a67c7c22e325f0c722bf" title="Создаёт панель с информацией" alt="" coords="284,133,515,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="209,107,299,128,298,133,208,112"/>
+<area shape="rect" id="Node000008" href="$classSceneVisualizer_1_1CustomCanvas.html#ae1bc9154c8f8cde0d4dc302302f260ce" title="Визуализирует стены" alt="" coords="284,69,515,109"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="236,87,270,87,270,92,236,92"/>
+<area shape="rect" id="Node000003" href="$classSceneVisualizer_1_1CustomCanvas.html#af4c2b701a780d2e08f3e1a0b5b3e262f" title="Переводит длину в длину на экране" alt="" coords="563,5,793,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="515,23,549,23,549,28,515,28"/>
+<area shape="rect" id="Node000004" href="$classSceneVisualizer_1_1CustomCanvas.html#a8b918da9bc2e59525f333ee9c3186983" title="Переводит точку в точку на экране" alt="" coords="563,69,793,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="488,43,578,64,576,69,487,48"/>
+<area shape="rect" id="Node000006" href="$classSceneVisualizer_1_1CustomCanvas.html#aa5631df06f49e5d1b535795470e8b811" title="Обновляет панель с информацией" alt="" coords="563,133,793,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="515,151,549,151,549,156,515,156"/>
+<area shape="rect" id="Node000007" href="$classScene_1_1Scene.html#ac9f52f57bce5f34fa2144d8533c6b8d4" title="Возвращает все объекты сцены" alt="" coords="841,141,1039,166"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="793,151,827,151,827,156,793,156"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="515,87,549,87,549,92,515,92"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SceneVisualizer.MainWindow.InitializeScene" name="SceneVisualizer.MainWindow.InitializeScene">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,220,63"/>
+<area shape="rect" id="Node000002" href="$classScene_1_1Scene.html#a8767bf13486096b72a80996131ecb7a8" title="Добавляет объект в сцену" alt="" coords="279,5,454,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,30,265,25,266,31,220,35"/>
+<area shape="rect" id="Node000003" href="$classScene_1_1Scene.html#ac9f52f57bce5f34fa2144d8533c6b8d4" title="Возвращает все объекты сцены" alt="" coords="268,55,465,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,51,255,54,254,59,220,56"/>
+</map>
